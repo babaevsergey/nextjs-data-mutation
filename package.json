@@ -12,6 +12,7 @@
     "better-sqlite3": "^9.4.3",
     "cloudinary": "^2.0.2",
     "next": "^14.2.24",
+    "prettier": "^3.5.0",
     "react": "^18",
     "react-dom": "^18"
   }
