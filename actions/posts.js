@@ -30,7 +30,9 @@ export async function createPost(prevState, formData) {
   let imageUrl;
 
   try {
+    console.log("Image received:", image);
     imageUrl = await uploadImage(image);
+    console.log("imageUrl", imageUrl);
   } catch {
     throw new Error(
       "Image upload failed, post was nit created. Please try again later.",
