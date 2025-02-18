@@ -1,4 +1,4 @@
-// File: /Users/babaevsergey1gmail.com/Work/NextJS/nextjs-data-mutation/app/feed/page.js
+// File: /Users/babaevsergey1gmail.com/Work/Learn/NextJS/nextjs-data-mutation/app/feed/page.js
 import * as entry from '../../../../app/feed/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
