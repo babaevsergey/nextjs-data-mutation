@@ -2,21 +2,29 @@
   "node": {
     "0863d7a218108d9f12b127e4db5a3b09691ab745": {
       "workers": {
-        "app/new-post/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fbabaevsergey1gmail.com%2FWork%2FLearn%2FNextJS%2Fnextjs-data-mutation%2Factions%2Fposts.js%22%2C%5B%22togglePostLikeStatus%22%2C%22createPost%22%5D%5D%5D&__client_imported__=!"
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fbabaevsergey1gmail.com%2FWork%2FLearn%2FNextJS%2Fnextjs-data-mutation%2Factions%2Fposts.js%22%2C%5B%22togglePostLikeStatus%22%2C%22createPost%22%5D%5D%5D&__client_imported__=!",
+        "app/new-post/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fbabaevsergey1gmail.com%2FWork%2FLearn%2FNextJS%2Fnextjs-data-mutation%2Factions%2Fposts.js%22%2C%5B%22togglePostLikeStatus%22%2C%22createPost%22%5D%5D%5D&__client_imported__=!",
+        "app/feed/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fbabaevsergey1gmail.com%2FWork%2FLearn%2FNextJS%2Fnextjs-data-mutation%2Factions%2Fposts.js%22%2C%5B%22togglePostLikeStatus%22%2C%22createPost%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/new-post/page": "rsc"
+        "app/page": "rsc",
+        "app/new-post/page": "rsc",
+        "app/feed/page": "rsc"
       }
     },
     "6e233b75e5da6bb3eba72f00e1fd2ab81a8ef551": {
       "workers": {
-        "app/new-post/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fbabaevsergey1gmail.com%2FWork%2FLearn%2FNextJS%2Fnextjs-data-mutation%2Factions%2Fposts.js%22%2C%5B%22togglePostLikeStatus%22%2C%22createPost%22%5D%5D%5D&__client_imported__=!"
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fbabaevsergey1gmail.com%2FWork%2FLearn%2FNextJS%2Fnextjs-data-mutation%2Factions%2Fposts.js%22%2C%5B%22togglePostLikeStatus%22%2C%22createPost%22%5D%5D%5D&__client_imported__=!",
+        "app/new-post/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fbabaevsergey1gmail.com%2FWork%2FLearn%2FNextJS%2Fnextjs-data-mutation%2Factions%2Fposts.js%22%2C%5B%22togglePostLikeStatus%22%2C%22createPost%22%5D%5D%5D&__client_imported__=!",
+        "app/feed/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fbabaevsergey1gmail.com%2FWork%2FLearn%2FNextJS%2Fnextjs-data-mutation%2Factions%2Fposts.js%22%2C%5B%22togglePostLikeStatus%22%2C%22createPost%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/new-post/page": "rsc"
+        "app/page": "rsc",
+        "app/new-post/page": "rsc",
+        "app/feed/page": "rsc"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "+RpnifIFeqZvCII33gql1EFHN0aN4T0aLk9r6yj+xQU="
+  "encryptionKey": "L4qm2LYEUO7KuB1UCaw6GvSiIt4RU/qT/SShgvgp9Qg="
 }
